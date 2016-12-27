@@ -135,8 +135,10 @@ Shows brief hardware information and some stats.
      * TBXin - for NFE Products, ideas and tests
      * Zinger - for graphics, ideas and tests
      * ClockSelect - for great project called myevic
-     
 
 # Disclaimer:
 
 The firmware is distributed in the hope that it will be useful, but without any warranty. It is provided "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the firmware is with you.
+
+# Donations:
+If you like our project and you want to help in its development, you can [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZLFDYGBRXQJGE) us the amount of money you deem acceptable.
