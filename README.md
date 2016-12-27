@@ -11,6 +11,7 @@
 **Use [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) for flashing and configuring your device.**
 
 ## List of supported devices:
+### Joyetech:
 * eVic VTC Mini
 * eVic VTC Dual
 * eVic VTwo Mini
@@ -20,17 +21,21 @@
 * eGrip II / Light
 * Cuboid
 * Cuboid Mini
-* Wismec Presa TC75W
-* Wismec Presa TC100W
-* Wismec Reuleaux RX75
-* Wismec Reuleaux RX200
-* Wismec Reuleaux RX200S
-* Wismec Reuleaux RX2/3
-* Eleaf iStick Pico 75W
-* Eleaf iStick Pico Mega 80W
-* Eleaf Aster
-* Eleaf iStick TC100W
-* Eleaf iStick Power 80W
+
+### Wismec:
+* Presa TC75W
+* Presa TC100W
+* Reuleaux RX75
+* Reuleaux RX200
+* Reuleaux RX200S
+* Reuleaux RX2/3
+
+### Eleaf:
+* iStick Pico 75W
+* iStick Pico Mega 80W
+* Aster
+* iStick TC100W
+* iStick Power 80W
 
 ## Profiles
 The main difference is the profile based user interface, so to say, the DNA-style, and the larger focus on customization than original Joyetech firmware.
