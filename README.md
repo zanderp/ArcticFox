@@ -8,7 +8,7 @@
 ![](http://i.imgur.com/TnqNYK1.png)
 ![](http://i.imgur.com/0XTV9xD.png)
 
-**Use [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) for flashing and configuring your device.**
+**Use [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) for [installing](https://github.com/maelstrom2001/ArcticFox/wiki/How-to-install) firmware and configuring your device.**
 
 ## List of supported devices:
 ### Joyetech:
