@@ -123,7 +123,7 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
 ![](http://i.imgur.com/UZBrHjJ.png) ![](http://i.imgur.com/7fT0pNi.png) ![](http://i.imgur.com/edejq3z.png) ![](http://i.imgur.com/FoH1vaE.png)
 
 * **USB**
-     - Mode - default is HID for connecting to NFE Toolbox, firmware update etc.; COM - adds virtual COM Port; DSK - adds virtual drive with firmware image (read only);
+     - Mode - default is HID for connecting to NFE Toolbox, firmware update etc.; COM - adds virtual COM Port (for debug purposes only);
      - NoSlp - do not enter deep sleep mode while connected to USB;
      - Charge - device is charging batteries while connected to USB;
 * **BVO** - batteries voltages offset;
@@ -133,7 +133,6 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
 * **RCOBC** - Reset Counters on Battery Change, clear vaping statistics;
 * **X32** - RTC module uses secondary 32768 Hz oscillator, if present;
 * **LSL** - Light Sleep Mode, for devices without secondary oscillator keep RTC accurate. It takes some more energy in standby mode, so user will be warned by ! sign right of battery indicator;
-* **DBG** - debug mode, for internal test purposes.
 
 
 ## Info Screen
