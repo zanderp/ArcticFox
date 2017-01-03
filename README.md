@@ -29,6 +29,11 @@
 * Reuleaux RX200
 * Reuleaux RX200S
 * Reuleaux RX2/3
+* Reuleaux RXmini
+* VF Lite
+* VF Stout
+* VF Classic
+* BV Centurion
 
 ### Eleaf:
 * iStick Pico 75W
@@ -60,13 +65,18 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
 
 ## Profile Menu
 
-![](http://i.imgur.com/mpg5ukP.png) ![](http://i.imgur.com/2UPcLHy.png) ![](http://i.imgur.com/yNH5crk.png) ![](http://i.imgur.com/kc0PYf7.png) ![](http://i.imgur.com/CNzn7vQ.png)
+![](http://i.imgur.com/HOO0KiF.png) ![](http://i.imgur.com/2UPcLHy.png) ![](http://i.imgur.com/yNH5crk.png) ![](http://i.imgur.com/kc0PYf7.png) ![](http://i.imgur.com/CNzn7vQ.png) ![](http://i.imgur.com/3MHoldt.png)
 
 * **Wire** - coil material, temperature sensing or not (VW), can be set to standard or user-defined TFR;
 * **Coil** - saved resistance;
 * **TCR** - value can be edited when selected Joyetech TC algo with custom TCR;
 * **T. Dom** - temperature-dominant regulation style;
 * **Preheat** - power control, use preheat or power curve;
+* **PI-Reg** - PI Regulator for TC mode, improves power and temperature stabilization:
+     - PI-Reg On/Off - switch between stock Joyetech and PI regulation;
+     - Range - 0..100% - temperature range when PI regulation becomes active. 0 means that regulator is always on and controls power distribution from start of puff, 20% for example - PI regulator turns on when temperature of coil reached 20% range from profile settings;
+     - P - proportional constant, the larger it is, the sharper the power changed;
+     - I - integral constant, the larger it is, the settled power distribution is smoother.
 
 ## Screen Menu
 
