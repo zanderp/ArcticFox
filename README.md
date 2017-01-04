@@ -1,5 +1,5 @@
 # ArcticFox
-*Custom Firmware for Joyetech, Wismec and Eleaf battery mods*
+*[NFE Team](http://nfeteam.org) presents custom Firmware for Joyetech, Wismec and Eleaf battery mods*
 
 ![](http://i.imgur.com/JP4KC8A.png)
 ![](http://i.imgur.com/E1e7cs1.png)
