@@ -1,5 +1,5 @@
 # ArcticFox
-*Az [NFE Team] egyedi firmware-e Joyetech, Wismec and Eleaf modokhoz*
+*Az [NFE Team](http://nfeteam.org) egyedi firmware-e Joyetech, Wismec and Eleaf modokhoz*
 
 ![](http://i.imgur.com/JP4KC8A.png)
 ![](http://i.imgur.com/E1e7cs1.png)
@@ -8,7 +8,7 @@
 ![](http://i.imgur.com/TnqNYK1.png)
 ![](http://i.imgur.com/0XTV9xD.png)
 
-**A firmware az [NFE Toolbox] segítségével tölthetõ fel a modra és konfigurálható.**
+**A firmware az [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) segítségével [tölthetõ fel](https://github.com/maelstrom2001/ArcticFox/wiki/How-to-install) a modra és konfigurálható.**
 
 ## Támogatott eszközök:
 ### Joyetech:
