@@ -19,28 +19,33 @@
 * eVic AIO
 * eVic Basic
 * eGrip II / Light
-* Cuboid
 * Cuboid Mini
+* Cuboid
+* Cuboid 200
 
 ### Wismec:
 * Presa TC75W
 * Presa TC100W
 * Reuleaux RX75
+* Reuleaux RXmini
 * Reuleaux RX200
 * Reuleaux RX200S
 * Reuleaux RX2/3
-* Reuleaux RXmini
+* Reuleaux RX300
 * VF Lite
 * VF Stout
 * VF Classic
 * BV Centurion
+* La Petite Box
 
 ### Eleaf:
+* Aster
 * iStick Pico 75W
 * iStick Pico Mega 80W
-* Aster
+* iStick Pico Dual
 * iStick TC100W
-* iStick Power 80W
+* iStick TC200W
+* iStick iPower 80W
 
 ## Profiles
 A fõ különbség az eredeti Joyetech firmware-hez képest, hogy a felhasználói felület a DNA-hoz hasonlóan profil alapú és nagyobb hangsúly került a testreszabhatóságra.
@@ -123,7 +128,6 @@ Tartsd nyomva a tûz és a plusz gombot 1 másodpercig a menübe való belépéshez
 ![](http://i.imgur.com/UZBrHjJ.png) ![](http://i.imgur.com/7fT0pNi.png) ![](http://i.imgur.com/edejq3z.png) ![](http://i.imgur.com/FoH1vaE.png)
 
 * **USB**
-     - Mode - NFE Toolbox csatlakozáshoz HID az alapértélmezett, pl. firmware frissítés; COM - virtuális soros port (kizárólag debug célokra);
      - NoSlp - ne lépjen mély sleep módba, USB csatlakozás esetén;
      - Charge - az eszköz töltse az akkumulátort, miközben USB-n csatlakozik;
 * **BVO** - cellafeszültség offset;
@@ -133,6 +137,7 @@ Tartsd nyomva a tûz és a plusz gombot 1 másodpercig a menübe való belépéshez
 * **RCOBC** - számlálók resetelése akkucsere esetén, törli a használati statisztikákat;
 * **X32** - RTC modul használja a másodlagos 32768 Hz-es oszcillátort, ha van ilyen a modban;
 * **LSL** - Light Sleep Mode, másodlagos oszcillátorral nem rendelkezõ készülékek esetén pontosabb RTC. Némi energiát vesz igénybe standby módban ezért ! figyelmezteti a felhasználót az akkumulátor kijelzõ mellett;
+* **TEMP** - panel hõmérsékleti szenzor, Ext - thermistor, Int - MCU
 
 
 ## Info Screen
