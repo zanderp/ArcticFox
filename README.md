@@ -95,7 +95,6 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
      - Type - analog or digital;
      - On Main - show clock on main screen;
      - Saver - show clock in standby mode;
-* **Selector** - show additional profile info on "Select Profile" screen;
 * **Contrast** - adjust brightness of display;
 * **Skin** - change main screen style.
 
