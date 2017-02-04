@@ -19,33 +19,33 @@
 * eVic AIO
 * eVic Basic
 * eGrip II / Light
-* Cuboid
 * Cuboid Mini
+* Cuboid
 * Cuboid 200
 
 ### Wismec:
 * Presa TC75W
 * Presa TC100W
 * Reuleaux RX75
+* Reuleaux RXmini
 * Reuleaux RX200
 * Reuleaux RX200S
 * Reuleaux RX2/3
-* Reuleaux RXmini
+* Reuleaux RX300
 * VF Lite
 * VF Stout
 * VF Classic
 * BV Centurion
-* RX300
 * La Petite Box
 
 ### Eleaf:
+* Aster
 * iStick Pico 75W
 * iStick Pico Mega 80W
-* Aster
+* iStick Pico Dual
 * iStick TC100W
-* iStick Power 80W
 * iStick TC200W
-* Pico Dual
+* iStick iPower 80W
 
 ## Профили
 В данной прошивке мы отказались от реализации "режимов" и заменили их профилями.
