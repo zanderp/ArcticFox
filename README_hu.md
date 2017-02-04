@@ -95,7 +95,6 @@ Tartsd nyomva a tûz és a plusz gombot 1 másodpercig a menübe való belépéshez
      - Type - analóg vagy digitális;
      - On Main - mutassa az órát a fõképernyõn;
      - Saver - mutassa az órát standby módban;
-* **Selector** - mutasson plusz profil információkat a "Select Profile" képernyõn;
 * **Contrast** - kijelzõ fényerejének változtatása;
 * **Skin** - fõképernyõ stílusának megváltoztatása.
 
