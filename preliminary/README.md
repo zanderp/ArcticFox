@@ -78,15 +78,13 @@ Editing the main screen differs from original Joyetech firmwares. To edit items 
 
 ## Main Menu
 
-Hold Fire and Plus buttons for a 1 second to enter menu.
+Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 
-```
-```
+![](http://i.imgur.com/feb0TFy.png)
 
 ### Profile Menu
 
-```
-```
+![](http://i.imgur.com/k5lilx4.png) ![](http://i.imgur.com/5ZPdPL1.png) ![](http://i.imgur.com/eVM4jxZ.png) ![](http://i.imgur.com/6874bnH.png)
 
 * **Wire** - coil material, temperature sensing or not (VW), can be set to standard or user-defined TFR;
 * **Coil** - saved coil resistance;
@@ -101,10 +99,9 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
 
 ### Screen Menu
 
-```
-```
+![](http://i.imgur.com/ANnqWiG.png) ![](http://i.imgur.com/Z5ygFZR.png) ![](http://i.imgur.com/IKs6AeP.png) ![](http://i.imgur.com/04QP7e7.png) ![](http://i.imgur.com/f4pXIRN.png) ![](http://i.imgur.com/ozrsc7q.png)
 
-* **Wake <>** - waking mod by pressing regulatory buttons;
+* **Wake <>** - waking mod up by pressing regulatory buttons;
 * **Logo** - show logo on main screen;
 * **Clock**
      - **Type** - analog or digital;
@@ -126,8 +123,7 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
 
 ### Settings Menu
 
-```
-```
+![](http://i.imgur.com/zojcSuS.png) ![](http://i.imgur.com/V9WeYvE.png) ![](http://i.imgur.com/24Oqlur.png) ![](http://i.imgur.com/P8IkuiY.png)
 
 * **1 Watt** - increment/decrement power by 1,0 Watt;
 * **5 Click** - Off - will switch box off, Lock - will lock all buttons but leave box powered on;
@@ -149,17 +145,16 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
      - Key Lock - switch Keylock on/off;
      - Coil Lock - switch coil resistance lock on/off (for TC modes);
 * **Smart** - automatic switching profiles settings:
-     - Off/On/Lazy - Smart Mode behavior setting, Lazy means that profile can be switched automatically only on new atomizer while the box is in active state;
+     - Off/On/Lazy - Smart Mode behavior setting, Lazy means that profile can be switched automatically only on atomizer change while the box is in active state;
      - resistance tolerance;
 * **RTC** - realtime clock setup;
 * **Expert** - settings for advanced users:
 
-```
-```
+![](http://i.imgur.com/xoWDOox.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/xoWDOox.png)
 
 * **USB**
      - NoSlp - do not enter deep sleep mode while connected to USB - may lead to self-discharging multi-cells boxes after charging stops;
-     - Charge - device is charging batteries while connected to USB;
+     - Charge - device is charging batteries while connected to USB - for multi-cells boxes only;
 * **BVO** - batteries voltages offset;
 * **BATT** - battery discharge profile;
 * **SHUNT** - Ohm-meter correction;
@@ -169,21 +164,22 @@ Hold Fire and Plus buttons for a 1 second to enter menu.
      - LXT - full hardware support;
      - LIRC - inaccurate secondary oscillator;
      - LSL - software mode. It takes some more energy in standby mode, but provides more accurate results on boxes without hardware RTC implementation;  
-     ***Note***: after switching RTC mode reboot your box by pulling out batteries for about 30 sec.
+     ***Note***: after switching RTC mode unplug USB and reboot your box by pulling out batteries for about 30 sec.
 * **TEMP** - board temperature sensor, Ext - thermistor, Int - MCU.
 
 
 ### Powerbank
+
 ```
 ```
 
-Support for Avatar RC adapter and similar. Provides charging devices with a voltage of 5 volts and current up to 2.1 amps. To start charging, put RC adapter on box, connect device and press Fire button. Powerbank mode has auto-off feature when current drain is not exceed 50 mA. To stop charging, press Fire button.
+Support for Avatar RC adapter and similar. Provides charging devices with a voltage of 5 volts and current up to 2.1 amps. To start charging, put RC adapter on box, connect device and press Fire button. Powerbank mode has auto-off feature when current drain is not exceed 50 mA (indicated by blinking label "On"). To stop charging, press Fire button.
 To exit Powerbank mode press and hold Fire button, or regulatory buttons simultaneously.
 
 
 ### Info Screen
-```
-```
+
+![](http://i.imgur.com/bsXlfpV.png)
 
 Shows brief hardware information and some stats.
 
