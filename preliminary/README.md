@@ -71,7 +71,7 @@ When you switching manually to profile that have saved resistance mismatch, you'
 
 ## Main Screen
 
-![](https://i.imgflip.com/1npb6t.gif)
+![](http://i.imgur.com/ARKJkRS.gif)
 
 Editing the main screen differs from original Joyetech firmwares. To edit items on main screen, call action "Edit Main" (4 Fire button clicks by default). Single Fire button click will switch next available editable item. Edit selected item by pressing regulatory buttons. To exit edit mode hold Fire button for about 1 sec.
 
