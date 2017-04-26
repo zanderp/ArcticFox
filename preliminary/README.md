@@ -51,6 +51,22 @@
 * iStick TC200W
 * iStick QC 200W
 
+## Limitations
+The safe use of our software one of our main goals. We retain all factory restrictions, because the device manufacturer is not just for fun made them.
+What we call limitations?
+* Minimal Resistance (For all supported devices)
+  * 0.05 Ohm for Temperature Control mode
+  * 0.1 Ohm for Vari-Watt mode
+* Output Wattage (Depending on the device)
+* Maximum Charging Current (Depending on the device)
+* Maximum Output Current (Depending on the device)
+* Output Voltage Range (Depending on the device)
+
+"Depending on the device" means that each device has own values, which are choosen by the manufacturer. The exact values you can find on the product page on the manufacturer's website.
+
+**All requests to change these values will be rejected as we don't want you to hurt yourself or your device.**
+
+
 ## Profiles
 The main difference is the profile based user interface, so to say, the DNA-style, and the larger focus on customization than original Joyetech firmware.
 Profile is the set of parameters of used atomizer, such as coil material, resistance, power and temperature values.
@@ -123,11 +139,10 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 
 ### Settings Menu
 
-![](http://i.imgur.com/zojcSuS.png) ![](http://i.imgur.com/V9WeYvE.png) ![](http://i.imgur.com/24Oqlur.png) ![](http://i.imgur.com/P8IkuiY.png)
+![](http://i.imgur.com/Wx1jgOT.png) ![](http://i.imgur.com/mQYC7Vi.png) ![](http://i.imgur.com/24Oqlur.png) ![](http://i.imgur.com/P8IkuiY.png)
 
 * **1 Watt** - increment/decrement power by 1,0 Watt;
-* **5 Click** - Off - will switch box off, Lock - will lock all buttons but leave box powered on;
-* **Clicks** - actions assigned on 2/3/4 Fire button clicks:
+* **Clicks** - actions assigned on 2/3/4/5 Fire button clicks:
      - None;
      - Edit Main - Joyetech default 3-clicks action;
      - Profiles - Profiles Selector;
@@ -168,13 +183,13 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 * **TEMP** - board temperature sensor, Ext - thermistor, Int - MCU.
 
 
-### Powerbank
+### Power Bank
 
 ```
 ```
 
-Support for Avatar RC adapter and similar. Provides charging devices with a voltage of 5 volts and current up to 2.1 amps. To start charging, put RC adapter on box, connect device and press Fire button. Powerbank mode has auto-off feature when current drain is not exceed 50 mA (indicated by blinking label "On"). To stop charging, press Fire button.
-To exit Powerbank mode press and hold Fire button, or regulatory buttons simultaneously.
+Support for Avatar RC adapter and similar. Provides charging devices with a voltage of 5 volts and current up to 2.1 amps. To start charging, put RC adapter on box, connect device and press Fire button. Power Bank mode has auto-off feature when current drain is not exceed 50 mA (indicated by blinking label "On"). To stop charging, press Fire button.
+To exit Power Bank mode press and hold Fire button, or regulatory buttons simultaneously.
 
 
 ### Info Screen
