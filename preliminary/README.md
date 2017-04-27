@@ -185,8 +185,7 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 
 ### Power Bank
 
-```
-```
+![](http://i.imgur.com/IxyXhex.png) ![](http://i.imgur.com/pnfnHQ0.gif) ![](http://i.imgur.com/D8dLPZJ.gif)
 
 Support for Avatar RC adapter and similar. Provides charging devices with a voltage of 5 volts and current up to 2.1 amps. To start charging, put RC adapter on box, connect device and press Fire button. Power Bank mode has auto-off feature when current drain is not exceed 50 mA (indicated by blinking label "On"). To stop charging, press Fire button.
 To exit Power Bank mode press and hold Fire button, or regulatory buttons simultaneously.
