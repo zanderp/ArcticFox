@@ -115,7 +115,7 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 
 ### Screen Menu
 
-![](http://i.imgur.com/ANnqWiG.png) ![](http://i.imgur.com/Z5ygFZR.png) ![](http://i.imgur.com/IKs6AeP.png) ![](http://i.imgur.com/04QP7e7.png) ![](http://i.imgur.com/f4pXIRN.png) ![](http://i.imgur.com/ozrsc7q.png)
+![](http://i.imgur.com/ANnqWiG.png) ![](http://i.imgur.com/Z5ygFZR.png) ![](http://i.imgur.com/IKs6AeP.png) ![](http://i.imgur.com/u2wvplG.png) ![](http://i.imgur.com/f4pXIRN.png) ![](http://i.imgur.com/ozrsc7q.png)
 
 * **Wake <>** - waking mod up by pressing regulatory buttons;
 * **Logo** - show logo on main screen;
@@ -125,6 +125,7 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
      - **Saver** - show clock in standby mode;
 * **Timeouts**
      - **Dim** - idle time before the screen turns off;
+     - **Dim** :lock: - idle time before the screen turns off in locked state;
      - **Logo** - idle time before displaying logo;
      - **Clock** - idle time before displaying clock;
 * **Charge**
@@ -142,23 +143,27 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 ![](http://i.imgur.com/Wx1jgOT.png) ![](http://i.imgur.com/mQYC7Vi.png) ![](http://i.imgur.com/24Oqlur.png) ![](http://i.imgur.com/P8IkuiY.png)
 
 * **1 Watt** - increment/decrement power by 1,0 Watt;
-* **Clicks** - actions assigned on 2/3/4/5 Fire button clicks:
-     - None;
-     - Edit Main - Joyetech default 3-clicks action;
-     - Profiles - Profiles Selector;
-     - T. Dom - temperature-dominant on/off;
-     - Clock - show/hide clock on main screen;
-     - On/Off - switch mod on/off;
-     - LSL - switch light sleep mode on/off;
-     - Main Menu - enter Main Menu, the same as Fire + ;
-     - Preheat - preheat settings for active profile;
-     - Edit Profile - enter Profile Menu;
-     - Smart On/Off - switch Smart Mode on/off;
-     - Info - show Info Screen;
-     - Reset Cnt. - show vaping stats info screen with opportunity to reset counters;
-     - Stealth - switch Stealth Mode on/off;
-     - Key Lock - switch Keylock on/off;
-     - Coil Lock - switch coil resistance lock on/off (for TC modes);
+* **Clicks** - actions assigned on
+     * **2/3/4 Fire button clicks**:
+          - None;
+          - Edit Main - Joyetech default 3-clicks action;
+          - Profiles - Profiles Selector;
+          - T. Dom - temperature-dominant on/off;
+          - Clock - show/hide clock on main screen;
+          - On/Off - switch mod on/off;
+          - LSL - switch light sleep mode on/off;
+          - Main Menu - enter Main Menu, the same as Fire + ;
+          - Preheat - preheat settings for active profile;
+          - Edit Profile - enter Profile Menu;
+          - Smart On/Off - switch Smart Mode on/off;
+          - Info - show Info Screen;
+          - Reset Cnt. - show vaping stats info screen with opportunity to reset counters;
+          - Stealth - switch Stealth Mode on/off;
+          - Key Lock - switch Keylock on/off;
+          - Coil Lock - switch coil resistance lock on/off (for TC modes);
+     * **5 Fire button clicks**:
+          - On/Off - switch mod on/off;
+          - Lock - lock all buttons but leave mod powered on;
 * **Smart** - automatic switching profiles settings:
      - Off/On/Lazy - Smart Mode behavior setting, Lazy means that profile can be switched automatically only on atomizer change while the box is in active state;
      - resistance tolerance;
