@@ -140,7 +140,7 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 
 ### Settings Menu
 
-![](http://i.imgur.com/Wx1jgOT.png) ![](http://i.imgur.com/mQYC7Vi.png) ![](http://i.imgur.com/24Oqlur.png) ![](http://i.imgur.com/P8IkuiY.png)
+![](http://i.imgur.com/iWCQH2q.png) ![](http://i.imgur.com/mQYC7Vi.png) ![](http://i.imgur.com/24Oqlur.png) ![](http://i.imgur.com/mS1hiZY.png)
 
 * **1 Watt** - increment/decrement power by 1,0 Watt;
 * **Clicks** - actions assigned on
@@ -167,7 +167,10 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 * **Smart** - automatic switching profiles settings:
      - Off/On/Lazy - Smart Mode behavior setting, Lazy means that profile can be switched automatically only on atomizer change while the box is in active state;
      - resistance tolerance;
-* **RTC** - realtime clock setup;
+* **Clock** - realtime clock setup;
+     - Date/Time - set current date and time;
+     - Adjust Time - precise adjusting time by 1 second step;
+     - LIRC Speed - adjusting speed of internal imprecise oscillator used on boxes without external 32768 Hz crystal on board;
 * **Expert** - settings for advanced users:
 
 ![](http://i.imgur.com/xoWDOox.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/xoWDOox.png)
