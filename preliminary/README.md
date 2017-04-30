@@ -72,17 +72,18 @@ The main difference is the profile based user interface, so to say, the DNA-styl
 Profile is the set of parameters of used atomizer, such as coil material, resistance, power and temperature values.
 The user have 8 profiles which can be edited with NFE Toolbox, and which can be assigned to his favourite atomizers.
 
-```
-```
+![](http://i.imgur.com/GF9vAbN.gif) ![](http://i.imgur.com/n7IAwpv.gif)
 
 Profiles can be switched automatically, based on saved coil resistance, and in manual mode. All you need to use the automatic switch is to enable "Smart" mode, install atomizer and assign them to the desired profile.
 
-```
-```
+![](http://i.imgur.com/J8TXMpU.png) ![](http://i.imgur.com/PvMv2at.png)
 
 When you re-install this atomizer later, assigned profile will be activated automatically.
 If resistance of installed atomizer is not found in profiles, you'll be prompted to select new profile or re-assign existing.
+
 When you switching manually to profile that have saved resistance mismatch, you'll be prompted to update or keep settings of selected profile.
+
+![](http://i.imgur.com/2u0Jgwb.png) ![](http://i.imgur.com/prrhsrr.png)
 
 
 ## Main Screen
@@ -201,7 +202,7 @@ To exit Power Bank mode press and hold Fire button, or regulatory buttons simult
 
 ### Info Screen
 
-![](http://i.imgur.com/bsXlfpV.png)
+![](http://i.imgur.com/bsXlfpV.png) ![](http://i.imgur.com/5FG1OD6.gif)
 
 Shows brief hardware information and some stats.
 
