@@ -145,7 +145,7 @@
 ![](http://i.imgur.com/iWCQH2q.png) ![](http://i.imgur.com/mQYC7Vi.png) ![](http://i.imgur.com/24Oqlur.png) ![](http://i.imgur.com/mS1hiZY.png)
 
 * **1 Watt** - шаг регулировки мощности без десятых;
-* **Clicks** - настройка действий на быстрые клики Fire
+* **Clicks** - настройка действий быстрых кликов Fire
      * **2/3/4 раза**:
           - None - не назначено;
           - Edit Main - редактирование главного экрана, эквивалент 3 кликов Joyetech;
