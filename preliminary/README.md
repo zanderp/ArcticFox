@@ -162,6 +162,7 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
           - Stealth - switch Stealth Mode on/off;
           - Key Lock - switch Keylock on/off;
           - Coil Lock - switch coil resistance lock on/off (for TC modes);
+          - Power Bank - switch box to Power Bank mode;
      * **5 Fire button clicks**:
           - On/Off - switch mod on/off;
           - Lock - lock all buttons but leave mod powered on;
