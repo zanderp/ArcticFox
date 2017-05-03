@@ -167,7 +167,7 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
           - Lock - lock all buttons but leave mod powered on;
 * **Smart** - automatic switching profiles settings:
      - Off/On/Lazy - Smart Mode behavior setting, Lazy means that profile can be switched automatically only on atomizer change while the box is in active state;
-     - resistance tolerance;
+     - Range - resistance tolerance;
 * **Clock** - realtime clock setup;
      - Date/Time - set current date and time;
      - Adjust Time - precise adjusting time by 1 second step;
