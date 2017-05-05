@@ -175,7 +175,7 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
      - LIRC Speed - adjusting speed of internal imprecise oscillator used on boxes without external 32768 Hz crystal on board;
 * **Expert** - settings for advanced users:
 
-![](http://i.imgur.com/xoWDOox.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/xoWDOox.png)
+![](http://i.imgur.com/TewKhaq.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/KqArvHQ.png)
 
 * **USB**
      - NoSlp - do not enter deep sleep mode while connected to USB - may lead to self-discharging multi-cells boxes after charging stops;
@@ -190,8 +190,10 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
      - LIRC - inaccurate secondary oscillator;
      - LSL - software mode. It takes some more energy in standby mode, but provides more accurate results on boxes without hardware RTC implementation;  
      ***Note***: after switching RTC mode unplug USB and reboot your box by pulling out batteries for about 30 sec.
-* **TEMP** - board temperature sensor, Ext - thermistor, Int - MCU.
-
+* **TEMP** - board temperature sensor, Ext - thermistor, Int - MCU;
+* **D. Sleep** - deep sleep (enter after 3 minutes of inactivity) mode:
+     - Std - standard deep sleep;
+     - Power / Lock - switching box to powered off / locked state, depending on 5 clicks action setting.
 
 ### Power Bank
 
