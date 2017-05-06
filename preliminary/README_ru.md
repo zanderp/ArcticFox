@@ -2,8 +2,7 @@
 # ArcticFox
 *Кастомная прошивка от [NFE Team](http://nfeteam.org) для батарейных модов от компаний: Joyetech, Wismec и Eleaf, которая даст вашим устройствам вторую жизнь, расширив их функциональность до уровня DNA / YiHi устройств.*
 
-```
-```
+![](http://i.imgur.com/rk6gZo8.png) ![](http://i.imgur.com/5mU3FAB.png) ![](http://i.imgur.com/wl8wR8d.png) ![](http://i.imgur.com/3yLUtOB.png) ![](http://i.imgur.com/fD6X2pK.png)
 
 **Используйте [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) для [установки](https://github.com/maelstrom2001/ArcticFox/wiki/How-to-install) прошивки и настройки вашего устройства.**
 
@@ -98,7 +97,7 @@
 
 Удерживайте 1 секунду Fire и + (по умолчанию) для открытия меню.
 
-![](http://i.imgur.com/feb0TFy.png)
+![](http://i.imgur.com/feb0TFy.png) ![](http://i.imgur.com/be2BWSt.png)
 
 ## Меню активного профиля
 
@@ -127,7 +126,7 @@
      - **Saver** - время отображения часов-заставки в дежурном режиме;
 * **Timeouts**
      - **Dim** - время автоматического затухания экрана;
-     - **Dim** :lock: - время автоматического затухания экрана в заблокированном состоянии;
+     - **Dim** ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - время автоматического затухания экрана в заблокированном состоянии;
      - **Logo** - время задержки перед отображением логотипа;
      - **Clock** - время задержки перед отображением часов;
 * **Charge**
@@ -157,17 +156,17 @@
           - Clock - отобразить/скрыть часы на основном экране;
           - Info - отобразить экран сводной информации;
           - Reset Cnt. - отобразить экран статистики с возможностью сброса счётчиков;
-          - Power Bank - переключение мода в режим Power Bank;
-          - Coil Lock - вкл/выкл блокировку сопротивления (для ТК);
-          - Key Lock - вкл/выкл блокировку кнопок + и – ;
+          - ![](https://cdn4.iconfinder.com/data/icons/font-awesome-2/2048/f011-16.png) Bank - переключение мода в режим Power Bank;
+          - Coil ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - вкл/выкл блокировку сопротивления (для ТК);
+          - Key ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - вкл/выкл блокировку кнопок + и – ;
           - Stealth - вкл/выкл стелс режим;
           - Smart On/Off - включение/выключение режима Smart;
           - LSL - вкл/выкл режим Light Sleep (см. ниже, описание меню "Expert");
-          - Device Lock - вкл/выкл блокировку мода (блокируются все кнопки, но мод остается включенным);
+          - Device ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - вкл/выкл блокировку мода (блокируются все кнопки, но мод остается включенным);
           - On/Off -  включение/выключение мода;
      * **5 раз**:
           - On/Off -  включение/выключение мода;
-          - Lock - заблокировать все кнопки, но оставить мод включенным;
+          - Device ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - заблокировать все кнопки, но оставить мод включенным;
 * **Smart** - настройка автоматического переключения профилей:
      - Off/On/Lazy - настройка поведения режима Smart, Lazy означает, что профиль будет переключаться автоматически при смене атомайзера, только когда мод находится в активном состоянии;
      - Range - диапазон определения сопротивления;
@@ -177,7 +176,7 @@
      - LIRC Speed - регулировка скорости внутреннего неточного осциллятора, используемого в модах без внешнего кристалла 32768 Гц на плате;
 * **Expert** - тонкие настройки, для продвинутых пользователей:
 
-![](http://i.imgur.com/TewKhaq.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/KqArvHQ.png)
+![](http://i.imgur.com/TewKhaq.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/pp3TTaR.png)
 
 * **USB**
      - NoSlp - запрет ухода в сон по окончании зарядки, если подключен USB;
@@ -195,7 +194,8 @@
 * **TEMP** - датчик температуры платы, Ext - внешний (термистор), Int - встроенный (микроконтроллер);
 * **D. Sleep** - настройка глубокого сна (переход после 3 минут бездействия):
      - Std - обычный глубокий сон;
-     - Power / Lock - перед уходом в глубокий сон мод дополнительно выключается / блокируется.
+     - ![](https://cdn4.iconfinder.com/data/icons/font-awesome-2/2048/f011-16.png) - перед уходом в глубокий сон мод переводится в "выключенное" состояние;
+     - ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - перед уходом в глубокий сон мод дополнительно  блокируется.
 
 
 ### Power Bank
