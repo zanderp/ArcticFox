@@ -222,4 +222,4 @@ Muestra información breve sobre el hardware y algunas estadísticas.
 Este firmware es distribuido con la esperanza de que sea útil, pero sin ninguna garantía. Se proporciona "tal cual" sin garantía de ningún tipo, ya sea expresa o implícita, incluyendo, pero no limitado a, las garantías implícitas de comerciabilidad y adecuación a un propósito particular. Todo el riesgo en cuanto a la calidad y el rendimiento del firmware depende de ti.
 
 # Donaciones:
-Si te gusta nuestro proyecto y quieres ayudar a su desarrollo, puedes [donarnos] https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZLFDYGBRXQJGE cualquier cantidad de dinero que consideres aceptable.
+Si te gusta nuestro proyecto y quieres ayudar a su desarrollo, puedes [donarnos](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZLFDYGBRXQJGE) cualquier cantidad de dinero que consideres aceptable.
