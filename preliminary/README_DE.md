@@ -94,7 +94,7 @@ Bei einem manuellen Profilwechsel mit abweichenden, gespeicherten Widerständen,
 
 ![](http://i.imgur.com/ARKJkRS.gif)
 
-Bearbeiten des Hauptbildschirms weicht von der orignalen Joyetechfirmware ab. Zum Bearbeiten des Hauptbildschirms muss die "Edit Main" Aktion (standardmäßig 4 Feuertaster-Klicks) ausgeführt werden. Einzelndes Betätigens des Feuertasters wählt das nächste editierbare Element aus. Das ausgewählte Element wird mit den Plus- und Minustasten bearbetiet. Halten des Feuertasters für eine Sekunde verlässt den Bearbeitungsmodus.
+Bearbeiten des Hauptbildschirms weicht von der orignalen Joyetechfirmware ab. Zum Bearbeiten des Hauptbildschirms muss die "Edit Main" Aktion (standardmäßig 4 Feuertaster-Klicks) ausgeführt werden. Einzelndes Betätigens des Feuertasters wählt das nächste editierbare Element aus. Das ausgewählte Element wird mit den Plus- und Minustasten bearbeitet. Halten des Feuertasters für eine Sekunde verlässt den Bearbeitungsmodus.
 
 
 ## Hauptmenü
@@ -139,7 +139,7 @@ Gleichzeitiges Betätigen des Feuertasters und der Plus-Taste für eine Sekunde 
 * **Stealth** - Bildschirmeinstellungen im "Stealth" Modus:
      - **Charge** - Ladebildschirm wird im "Stealth" Modus angezeigt;
      - **Saver** - Bildschirmschoner wird im "Stealth" Modus angezeigt;
-     - **ClkOnF** - wenn die Uhr im Hauptbildschirm aktiviert ist, wird die Uhr mit einzelmen Druck auf den Feuertaster angezeigt;
+     - **ClkOnF** - wenn die Uhr im Hauptbildschirm aktiviert ist, wird die Uhr mit einzelnen Druck auf den Feuertaster angezeigt;
 * **Contrast** - Helligkeit des Displays justieren;
 * **Skin** - Stil des Hauptbildschirms wechseln.
 
@@ -221,4 +221,4 @@ Zeigt eine Kurzübersicht von Hardwareinformationen sowie einige Statistiken.
 Es besteht keinerlei Gewährleistung für das Programm, soweit dies gesetzlich zulässig ist. Sofern nicht anderweitig schriftlich bestätigt, stellen die Urheberrechtsinhaber und/oder Dritte das Programm so zur Verfügung, „wie es ist“, ohne irgendeine Gewährleistung, weder ausdrücklich noch implizit, einschließlich – aber nicht begrenzt auf – die implizite Gewährleistung der Marktreife oder der Verwendbarkeit für einen bestimmten Zweck. Das volle Risiko bezüglich Qualität und Leistungsfähigkeit des Programms liegt bei Ihnen.
 
 # Spenden:
-Wenn das Projekt gefällt oder Sie die Entwickler unterstützen wollen, können unter [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZLFDYGBRXQJGE) Spenden abgegeben werden können..
+Wenn das Projekt gefällt oder Sie die Entwickler unterstützen wollen, können unter [Spenden](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZLFDYGBRXQJGE) Spenden abgegeben werden können..
