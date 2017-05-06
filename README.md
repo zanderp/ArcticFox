@@ -47,6 +47,21 @@
 * iStick TC200W
 * iStick iPower 80W
 
+## Limitations
+The safe use of our software one of our main goals. We retain all factory restrictions, because the device manufacturer is not just for fun made them.
+What we call limitations?
+* Minimal Resistance (For all supported devices)
+  * 0.05 Ohm for Temperature Control mode
+  * 0.1 Ohm for Vari-Watt mode
+* Output Wattage (Depending on the device)
+* Maximum Charging Current (Depending on the device)
+* Maximum Output Current (Depending on the device)
+* Output Voltage Range (Depending on the device)
+
+"Depending on the device" means that each device has own values, which are choosen by the manufacturer. The exact values you can find on the product page on the manufacturer's website.
+
+**All requests to change these values will be rejected as we don't want you to hurt yourself or your device.**
+
 ## Profiles
 The main difference is the profile based user interface, so to say, the DNA-style, and the larger focus on customization than original Joyetech firmware.
 Profile is the set of parameters of used atomizer, such as coil material, resistance, power and temperature values.
