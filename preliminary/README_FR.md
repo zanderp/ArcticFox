@@ -2,8 +2,7 @@
 # ArcticFox
 *[NFE Team](http://nfeteam.org) présente le firmware custom pour les mods Joyetech, Wismec et Eleaf*
 
-```
-```
++![](http://i.imgur.com/rk6gZo8.png) ![](http://i.imgur.com/5mU3FAB.png) ![](http://i.imgur.com/wl8wR8d.png) ![](http://i.imgur.com/3yLUtOB.png) ![](http://i.imgur.com/fD6X2pK.png)
 
 **Utilisez [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) pour [installer](https://github.com/maelstrom2001/ArcticFox/wiki/How-to-install) le firmware et configurer votre appareil.**
 
@@ -95,7 +94,7 @@ L'édition de l'écran principal est différente du firmware original Joyetech. 
 
 Maintenez les boutons Fire et Plus (par défaut) pendant 1 seconde pour accéder au menu
 
-![](http://i.imgur.com/feb0TFy.png)
+![](http://i.imgur.com/feb0TFy.png) ![](http://i.imgur.com/be2BWSt.png)
 
 ### Menu Profil
 
@@ -124,7 +123,7 @@ Maintenez les boutons Fire et Plus (par défaut) pendant 1 seconde pour accéder
      - **Saver** - Affiche l'horloge en mode veille;
 * **Timeouts**
      - **Dim** - Temps d'inactivé avant que l'écran ne s'éteigne;
-     - **Dim** :lock: - Temps d'inactivité avant que l'écran ne s'éteigne en mode bloqué;
+     - **Dim** ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - Temps d'inactivité avant que l'écran ne s'éteigne en mode bloqué;
      - **Logo** - Temps d'inactivité avant que le logo n'apparaisse;
      - **Clock** - Temps d'inactivité avant que l'heure n'apparaisse;
 * **Charge**
@@ -154,16 +153,16 @@ Maintenez les boutons Fire et Plus (par défaut) pendant 1 seconde pour accéder
           - Clock - Affiche/Cache l'horloge sur l'écran principal;
           - Info - Affiche la page d'information;
           - Reset Cnt. - Affiche les stats de vape et l'option pour réinitialiser les compteurs;
-          - Power Bank - Active le mode de recharge Power Bank;
-          - Coil Lock - Blocage de la valeur de résistance du coil On/Off (pour les modes TC);
-          - Key Lock - Blocage des touches de régulations On/Off;
+          - ![](https://cdn4.iconfinder.com/data/icons/font-awesome-2/2048/f011-16.png) Power Bank - Active le mode de recharge Power Bank;
+          - Coil ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - Blocage de la valeur de résistance du coil On/Off (pour les modes TC);
+          - Key ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - Blocage des touches de régulations On/Off;
           - Stealth - Mode Stealth On/Off;
           - Smart On/Off - Mode Smart On/Off;
           - LSL - Mode sommeil léger On/Off;
-          - Device Lock - Mode bloqué On/Off (bloque tous les boutons mais laisse l'appareil allumé);
+          - Device ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - Mode bloqué On/Off (bloque tous les boutons mais laisse l'appareil allumé);
           - On/Off - Allume/Éteint On/Off;
      * **5 appuis sur le bouton Fire**:
-          - Device Lock - Mode bloqué On/Off (bloque tous les boutons mais laisse l'appareil allumé);
+          - Device ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - Mode bloqué On/Off (bloque tous les boutons mais laisse l'appareil allumé);
           - On/Off - Allume/Éteint On/Off.
 * **Smart** - Changement automatique de profil:
      - Off/On/Lazy - Fonctionnement du mode Smart: "Lazy" signifie que le profil peux être changé automatiquement uniquement lors d'un changement d'atomizer lorsque l'appareil est actif;
@@ -174,7 +173,7 @@ Maintenez les boutons Fire et Plus (par défaut) pendant 1 seconde pour accéder
      - LIRC Speed - Ajuste la vitesse de l'oscillateur interne imprécis pour les appareils sans crystal externe 32768 Hz;
 * **Expert** - Paramètres pour les utilisateurs avancées:
 
-![](http://i.imgur.com/TewKhaq.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/KqArvHQ.png)
+![](http://i.imgur.com/TewKhaq.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/pp3TTaR.png)
 
 * **USB**
      - NoSlp - Ne pas entrer en mode de sommeil profond quand l'appareil est connecté en USB - peux provoquer une décharge sur les multi-cells après que la charge soit terminée;
@@ -192,7 +191,8 @@ Maintenez les boutons Fire et Plus (par défaut) pendant 1 seconde pour accéder
 * **TEMP** - Type de capteur de température de la carte, Ext - thermistance, Int - MCU;
 * **D. Sleep** - Mode de veille profonde (entre après 3 minutes d'inactivité):
      - Std - Veille profonde standard;
-     - Power / Lock - Éteint/Bloque l'appareil avant d'aller en veille profonde.
+     - ![](https://cdn4.iconfinder.com/data/icons/font-awesome-2/2048/f011-16.png) - Eteint l'appareil avant d'entrer en veille profonde;
+     - ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - Bloque l'appareil avant d'entrer en veille profonde.
 
 ### Power Bank
 
