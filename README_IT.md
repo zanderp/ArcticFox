@@ -47,6 +47,23 @@
 * iStick TC200W
 * iStick iPower 80W
 
+ ## Limitazioni
+L'utilizzo in tutta sicurezza del nostro software è uno dei nostri obiettivi principali. 
+E' per questo motivo che conserviamo tutte le restrizioni imposte dal produttore.
+Semplicemente, non sono state messe lì per caso e per questo riteniamo sia importante tenerne conto.
+Quali sono queste restrizioni?
+ * Valore minimo delle resistenze (Per tutti i dispositivi supportati)
+   * 0.05 Ohm per le resistenze usate in Temperature Control
+   * 0.1 Ohm per le resistenze usate in Vari-Watt
+  * Massimo valore di corrente in carica (Dipende dal dispositivo)
+  * Output massimo di corrente (Dipende dal dispositivo)
+  * Range del voltaggio in uscita(Dipende dal dispositivo)
+
+La dicitura "Dipende dal dispositivo" significa, per l'appunto, che ogni dispositivo ha i suoi valori limite, scelti dal produttore.
+Questi valori possono essere trovati sul sito del produttore della vostra box.
+ 
+ **Tutte le richieste riguardanti modifiche di questi valori saranno categoricamente rifiutate. Non vogliamo che voi utenti possiate arrecare danno alle vostre box o alla vostra persona.**
+ 
 ## Profili
 La differenza principale è l'interfaccia utente, simile a quella DNA, pienamente modificabile rispetto al firmware originale Joyetech.
 I profili sono composti da set di parametri utilizzati dall'atomizzatore come il materiale delle coil, le resistenze, potenza erogata e valori relativi alle temperature.
