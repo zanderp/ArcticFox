@@ -2,8 +2,7 @@
 # ArcticFox
 *[NFE Team](http://nfeteam.org) presents custom Firmware for Joyetech, Wismec and Eleaf battery mods*
 
-```
-```
+![](http://i.imgur.com/rk6gZo8.png) ![](http://i.imgur.com/5mU3FAB.png) ![](http://i.imgur.com/wl8wR8d.png) ![](http://i.imgur.com/3yLUtOB.png) ![](http://i.imgur.com/fD6X2pK.png)
 
 **Use [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) for [installing](https://github.com/maelstrom2001/ArcticFox/wiki/How-to-install) firmware and configuring your device.**
 
@@ -97,7 +96,7 @@ Editing the main screen differs from original Joyetech firmwares. To edit items 
 
 Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 
-![](http://i.imgur.com/feb0TFy.png)
+![](http://i.imgur.com/feb0TFy.png) ![](http://i.imgur.com/be2BWSt.png)
 
 ### Profile Menu
 
@@ -126,7 +125,7 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
      - **Saver** - show clock in standby mode;
 * **Timeouts**
      - **Dim** - idle time before the screen turns off;
-     - **Dim** :lock: - idle time before the screen turns off in locked state;
+     - **Dim** ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - idle time before the screen turns off in locked state;
      - **Logo** - idle time before displaying logo;
      - **Clock** - idle time before displaying clock;
 * **Charge**
@@ -156,17 +155,17 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
           - Clock - show/hide clock on main screen;
           - Info - show Info Screen;
           - Reset Cnt. - show vaping stats info screen with opportunity to reset counters;
-          - Power Bank - switch box to Power Bank mode;
-          - Coil Lock - switch coil resistance lock on/off (for TC modes);
-          - Key Lock - switch Keylock on/off;
+          - ![](https://cdn4.iconfinder.com/data/icons/font-awesome-2/2048/f011-16.png) Bank - switch box to Power Bank mode;
+          - Coil ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - switch coil resistance lock on/off (for TC modes);
+          - Key ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - switch Keylock on/off;
           - Stealth - switch Stealth Mode on/off;
           - Smart On/Off - switch Smart Mode on/off;
           - LSL - switch light sleep mode on/off;
-          - Device Lock - switch Device Lock on / off (lock all buttons but leave mod powered on);
+          - Device ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - switch Device Lock on / off (lock all buttons but leave mod powered on);
           - On/Off - switch mod on/off;
      * **5 Fire button clicks**:
           - On/Off - switch mod on/off;
-          - Device Lock - lock all buttons but leave mod powered on;
+          - Device ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - lock all buttons but leave mod powered on;
 * **Smart** - automatic switching profiles settings:
      - Off/On/Lazy - Smart Mode behavior setting, Lazy means that profile can be switched automatically only on atomizer change while the box is in active state;
      - Range - resistance tolerance;
@@ -176,7 +175,7 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
      - LIRC Speed - adjusting speed of internal imprecise oscillator used on boxes without external 32768 Hz crystal on board;
 * **Expert** - settings for advanced users:
 
-![](http://i.imgur.com/TewKhaq.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/KqArvHQ.png)
+![](http://i.imgur.com/TewKhaq.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/pp3TTaR.png)
 
 * **USB**
      - NoSlp - do not enter deep sleep mode while connected to USB - may lead to self-discharging multi-cells boxes after charging stops;
@@ -194,7 +193,8 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 * **TEMP** - board temperature sensor, Ext - thermistor, Int - MCU;
 * **D. Sleep** - deep sleep (enter after 3 minutes of inactivity) mode:
      - Std - standard deep sleep;
-     - Power / Lock - power off / lock box before going into deep sleep.
+     - ![](https://cdn4.iconfinder.com/data/icons/font-awesome-2/2048/f011-16.png) - switch box to powered off state before going into deep sleep;
+     - ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - lock box before going into deep sleep.
 
 ### Power Bank
 
