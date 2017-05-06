@@ -52,8 +52,8 @@
 * iStick QC 200W
 
 ## Limitations
-The safe use of our software one of our main goals. We retain all factory restrictions, because the device manufacturer is not just for fun made them.
-What we call limitations?
+The safe use of our software it's one of our main goals. We retain all factory restrictions, because the device manufacturer did NOT make them "just for fun".
+What are the limitations?
 * Minimal Resistance (For all supported devices)
   * 0.05 Ohm for Temperature Control mode
   * 0.1 Ohm for Vari-Watt mode
@@ -62,7 +62,7 @@ What we call limitations?
 * Maximum Output Current (Depending on the device)
 * Output Voltage Range (Depending on the device)
 
-"Depending on the device" means that each device has own values, which are choosen by the manufacturer. The exact values you can find on the product page on the manufacturer's website.
+"Depending on the device" means that each device has its own values, which are choosen by the manufacturer. You can find this values on the product page of your manufacturer's website.
 
 **All requests to change these values will be rejected as we don't want you to hurt yourself or your device.**
 
@@ -148,24 +148,25 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
      * **2/3/4 Fire button clicks**:
           - None;
           - Edit Main - Joyetech default 3-clicks action;
-          - Profiles - Profiles Selector;
-          - T. Dom - temperature-dominant on/off;
-          - Clock - show/hide clock on main screen;
-          - On/Off - switch mod on/off;
-          - LSL - switch light sleep mode on/off;
           - Main Menu - enter Main Menu, the same as Fire + ;
           - Preheat - preheat settings for active profile;
+          - Profiles - Profiles Selector;
           - Edit Profile - enter Profile Menu;
-          - Smart On/Off - switch Smart Mode on/off;
+          - T. Dom - temperature-dominant on/off;
+          - Clock - show/hide clock on main screen;
           - Info - show Info Screen;
           - Reset Cnt. - show vaping stats info screen with opportunity to reset counters;
-          - Stealth - switch Stealth Mode on/off;
-          - Key Lock - switch Keylock on/off;
-          - Coil Lock - switch coil resistance lock on/off (for TC modes);
           - Power Bank - switch box to Power Bank mode;
+          - Coil Lock - switch coil resistance lock on/off (for TC modes);
+          - Key Lock - switch Keylock on/off;
+          - Stealth - switch Stealth Mode on/off;
+          - Smart On/Off - switch Smart Mode on/off;
+          - LSL - switch light sleep mode on/off;
+          - Device Lock - switch Device Lock on / off (lock all buttons but leave mod powered on);
+          - On/Off - switch mod on/off;
      * **5 Fire button clicks**:
           - On/Off - switch mod on/off;
-          - Lock - lock all buttons but leave mod powered on;
+          - Device Lock - lock all buttons but leave mod powered on;
 * **Smart** - automatic switching profiles settings:
      - Off/On/Lazy - Smart Mode behavior setting, Lazy means that profile can be switched automatically only on atomizer change while the box is in active state;
      - Range - resistance tolerance;
@@ -193,7 +194,7 @@ Hold Fire and Plus buttons (by default) for a 1 second to enter menu.
 * **TEMP** - board temperature sensor, Ext - thermistor, Int - MCU;
 * **D. Sleep** - deep sleep (enter after 3 minutes of inactivity) mode:
      - Std - standard deep sleep;
-     - Power / Lock - switching box to powered off / locked state, depending on 5 clicks action setting.
+     - Power / Lock - power off / lock box before going into deep sleep.
 
 ### Power Bank
 
