@@ -48,8 +48,8 @@
 * iStick iPower 80W
 
 ## Limitations
-The safe use of our software one of our main goals. We retain all factory restrictions, because the device manufacturer is not just for fun made them.
-What we call limitations?
+The safe use of our software it's one of our main goals. We retain all factory restrictions, because the device manufacturer did NOT make them "just for fun".
+What are the limitations?
 * Minimal Resistance (For all supported devices)
   * 0.05 Ohm for Temperature Control mode
   * 0.1 Ohm for Vari-Watt mode
@@ -58,7 +58,7 @@ What we call limitations?
 * Maximum Output Current (Depending on the device)
 * Output Voltage Range (Depending on the device)
 
-"Depending on the device" means that each device has own values, which are choosen by the manufacturer. The exact values you can find on the product page on the manufacturer's website.
+"Depending on the device" means that each device has its own values, which are choosen by the manufacturer. You can find this values on the product page of your manufacturer's website.
 
 **All requests to change these values will be rejected as we don't want you to hurt yourself or your device.**
 
