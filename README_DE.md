@@ -95,7 +95,7 @@ Gleichzeitiges Betätigen des Feuertasters und der Plus-Taste für eine Sekunde 
 * **Preheat** - Leistungskontrolle, entweder Preheat oder Leistungskurve;
 * **PI-Reg** - PI Regulator für TC modus, verbessterte, stabilisierte Leistungs- und Temperaturregulierung:
      - PI-Reg On/Off - Wechsel zwischen Joyetech TC Algorithmus und PI Regulierung;
-     - Range - 0..100% - Temperaturbereich in dem PI Regulierung aktiv ist. 0 bedeutet, der Regulator ist immer aktiv und kontrolliert die Leistungsabgabe von Beginn des Zuges. 20% bedeutet:PI Regulator wird aktiv wenn 20% der im Profil eingestellten Temperatur erreicht werden;
+     - Range - 0..100% - Temperaturbereich in dem PI Regulierung aktiv ist. 0 bedeutet, der Regulator ist immer aktiv und kontrolliert die Leistungsabgabe von Beginn des Zuges. 20% bedeutet: PI Regulierung wird aktiv wenn 20% der im Profil eingestellten Temperatur erreicht werden;
      - P - proportionale Konstante, je größer, desto drastischer die Leistungsänderung;
      - I - integrale Konstante, je größer, desto gleichmäßiger ist die Leistungsregelung.
 
@@ -118,7 +118,7 @@ Gleichzeitiges Betätigen des Feuertasters und der Plus-Taste für eine Sekunde 
 
 ![](http://i.imgur.com/aDuSk3n.png) ![](http://i.imgur.com/3JeWUqf.png) ![](http://i.imgur.com/8V1VCeo.png)
 
-* **1 Watt** - Leistung in 1Wattschritten ändern;
+* **1 Watt** - Leistung in 1 Wattschritten ändern;
 * **Menu** - New - Profile durch Smartauswahl wechseln, Old - Profile durch normales Editieren/Edit Main wechseln;
 * **Smart** - Einstellungen zur automatischen Profilauswahl:
      - On/Off; - Smartauswahl an/aus
@@ -128,7 +128,7 @@ Gleichzeitiges Betätigen des Feuertasters und der Plus-Taste für eine Sekunde 
      - None; - Keine
      - Edit Main - Joyetech reguläre 3-Klick Aktion;
      - Profiles - Profilauswahl;
-     - T. Dom - Temperatur-dominant Regulierung an/aus;
+     - T. Dom - Temperatur-dominante Regulierung an/aus;
      - Clock - Zeige/Verstecke Uhr im Hauptbildschirm;
      - On/Off - Akkuträger ein/ausschalten;
      - LSL - "Light Sleep Mode" aktivieren/deaktivieren; 
@@ -161,12 +161,12 @@ Gleichzeitiges Betätigen des Feuertasters und der Plus-Taste für eine Sekunde 
 Zeigt eine Kurzübersicht von Hardwareinformationen sowie einige Statistiken.
 
 ### Danksagungen
-     * TBXin - for NFE Products, ideas and tests
-     * Zinger - for graphics, ideas and tests
-     * ClockSelect - for great project called myevic
+     * TBXin - für NFE Products, Ideen und Tests
+     * Zinger - für Graphiken, Ideen und Tests
+     * ClockSelect - für das großartige myevic
 
 # Disclaimer:
 Es besteht keinerlei Gewährleistung für das Programm, soweit dies gesetzlich zulässig ist. Sofern nicht anderweitig schriftlich bestätigt, stellen die Urheberrechtsinhaber und/oder Dritte das Programm so zur Verfügung, „wie es ist“, ohne irgendeine Gewährleistung, weder ausdrücklich noch implizit, einschließlich – aber nicht begrenzt auf – die implizite Gewährleistung der Marktreife oder der Verwendbarkeit für einen bestimmten Zweck. Das volle Risiko bezüglich Qualität und Leistungsfähigkeit des Programms liegt bei Ihnen.
 
 # Spenden:
-Wenn das Projekt gefällt oder Sie die Entwickler unterstützen wollen, können unter [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZLFDYGBRXQJGE) Spenden abgegeben werden können..
+Wenn das Projekt gefällt oder Sie die Entwickler unterstützen wollen, können unter [Spenden](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZLFDYGBRXQJGE) Spenden abgegeben werden.
