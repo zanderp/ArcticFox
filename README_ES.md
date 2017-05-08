@@ -1,4 +1,3 @@
-### *Preliminary*
 # ArcticFox
 *[NFE Team](http://nfeteam.org) presenta un firmware personalizado para mods de Joyetech, Wismec y Eleaf.*
 
