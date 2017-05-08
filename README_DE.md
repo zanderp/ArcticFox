@@ -1,5 +1,3 @@
-##VORLÄUFIG
-
 # ArcticFox
 *[NFE Team](http://nfeteam.org) präsentiert eine angepasste Firmware für Joyetech, Wismec and Eleaf Akkuträger*
 
