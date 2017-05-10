@@ -1,7 +1,7 @@
 # ArcticFox
 *Кастомная прошивка от [NFE Team](http://nfeteam.org) для батарейных модов от компаний: Joyetech, Wismec и Eleaf, которая даст вашим устройствам вторую жизнь, расширив их функциональность до уровня DNA / YiHi устройств.*
 
-![](http://i.imgur.com/rk6gZo8.png) ![](http://i.imgur.com/5mU3FAB.png) ![](http://i.imgur.com/wl8wR8d.png) ![](http://i.imgur.com/3yLUtOB.png) ![](http://i.imgur.com/fD6X2pK.png)
+![](http://i.imgur.com/PqSrmLb.png) ![](http://i.imgur.com/C8Lu9SG.png) ![](http://i.imgur.com/aBhNKxV.png) ![](http://i.imgur.com/rk6gZo8.png) ![](http://i.imgur.com/5mU3FAB.png) ![](http://i.imgur.com/wl8wR8d.png) ![](http://i.imgur.com/s3yNIEf.png)
 
 **Используйте [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) для [установки](https://github.com/maelstrom2001/ArcticFox/wiki/How-to-install) прошивки и настройки вашего устройства.**
 
