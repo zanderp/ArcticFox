@@ -1,7 +1,7 @@
 # ArcticFox
 *[NFE Team](http://nfeteam.org) présente le firmware custom pour les mods Joyetech, Wismec et Eleaf*
 
-+![](http://i.imgur.com/rk6gZo8.png) ![](http://i.imgur.com/5mU3FAB.png) ![](http://i.imgur.com/wl8wR8d.png) ![](http://i.imgur.com/3yLUtOB.png) ![](http://i.imgur.com/fD6X2pK.png)
+![](http://i.imgur.com/PqSrmLb.png) ![](http://i.imgur.com/C8Lu9SG.png) ![](http://i.imgur.com/aBhNKxV.png) ![](http://i.imgur.com/rk6gZo8.png) ![](http://i.imgur.com/5mU3FAB.png) ![](http://i.imgur.com/wl8wR8d.png) ![](http://i.imgur.com/s3yNIEf.png)
 
 **Utilisez [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) pour [installer](https://github.com/maelstrom2001/ArcticFox/wiki/How-to-install) le firmware et configurer votre appareil.**
 
@@ -115,7 +115,7 @@ Maintenez les boutons Fire et Plus (par défaut) pendant 1 seconde pour accéder
 ![](http://i.imgur.com/ANnqWiG.png) ![](http://i.imgur.com/Z5ygFZR.png) ![](http://i.imgur.com/IKs6AeP.png) ![](http://i.imgur.com/u2wvplG.png) ![](http://i.imgur.com/f4pXIRN.png) ![](http://i.imgur.com/ozrsc7q.png)
 
 * **Wake <>** - Réactive l'appareil en pressant les boutons de régulations;
-* **Logo** - Affiche le logo sur l'écran princiapl;
+* **Logo** - Affiche le logo sur l'écran principal;
 * **Clock**
      - **Type** - Analogique ou digitale;
      - **On Main** - Affiche l'horloge sur l'écran principal;
